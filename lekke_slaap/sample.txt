@@ -1,0 +1,909 @@
+78%">
+                            <i class="fas fa-star" aria-hidden="true"></i>
+                            <i class="fas fa-star" aria-hidden="true"></i>
+                            <i class="fas fa-star" aria-hidden="true"></i>
+                            <i class="fas fa-star" aria-hidden="true"></i>
+                            <i class="fas fa-star" aria-hidden="true"></i>
+                        </div>
+                    </div>
+                    <div class="font-size-xs ml-2 text-nowrap review-link">
+                                                    <a class="text-primary text-decoration-none" href="/accommodation/leopard-rock-lodge-10/reviews?uuid=9f64f48e912c9edd668b58104d7392ef" target=_blank>
+                        
+                        2 reviews
+
+                                                    </a>
+                                            </div>
+                </div>
+        
+            
+        </div>
+
+                <div class="d-flex flex-column flex-lg-row justify-content-between align-items-start align-items-md-end mb-xs-0 mb-sm-0 mt-md-auto characteristics-box">
+
+                                <div class="d-none d-md-block d-md-block d-xl-block">
+                <div class="characteristics font-size-xs d-flex flex-column justify-content-end">
+                    
+                                                
+                                                    <div class="d-flex flex-nowrap align-items-center " style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Swimming Pool</span>
+                            </div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Braai Area</span>
+                            </div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Secure Parking</span>
+                            </div>
+                                                    <div class="d-none d-lg-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Free Wifi</span>
+                            </div>
+                                                            </div>
+            </div>
+
+            
+                                                                                    
+            <div class="d-md-none d-md-none d-xs-block d-sm-block">
+                <div class="characteristics font-size-xs d-flex flex-column justify-content-end">
+                                                                                
+                    
+                                                                        <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Swimming Pool</span></div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Braai Area</span></div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Secure Parking</span></div>
+                                                            </div>
+            </div>
+        
+                        <div class="d-none d-md-flex flex-column justify-content-end">
+
+                
+                
+                
+                <a href="/accommodation/leopard-rock-lodge-10?uuid=9f64f48e912c9edd668b58104d7392ef&amp;page_number=11" class="btn btn-primary text-decoration-none" target=_blank>View More</a>
+            </div>
+        </div>
+
+        <div class="mobile-pricebox d-md-none ">
+                            
+                                        
+    
+        
+            
+                
+        
+                    <div class=" text-right pricebox-results">
+                <div class="font-size-xs font-weight-bold">
+                    <div class="price-sub-text">
+                        <span class="font-weight-normal font-size-sm ">From</span>
+                                            </div>
+                    <div class="price text-nowrap ">
+                                                <span class="text-primary">
+                                                            <span class="d-none">From</span>
+                                                        <span class=" ">
+                                                                                                                                 R7&nbsp;500
+                            </span>
+                        </span>
+
+                                            </div>
+                </div>
+
+                                    <div class="font-size-xs price-sub-text ">
+                        
+                                                            per night&nbsp;(sleeps 10)
+                                                                        </div>
+                
+                
+                            </div>
+            
+                                
+
+        </div>
+
+        <a href="/accommodation/leopard-rock-lodge-10?uuid=9f64f48e912c9edd668b58104d7392ef&amp;page_number=11"
+            class="establishment-item__mobile-anchor text-decoration-none d-block d-md-none">
+            <i class="establishment-item__chevron d-md-none fas fa-chevron-right"></i>
+        </a>
+    </div>
+
+</div>
+            
+            
+                            <hr class="my-1 my-md-3"/>
+                                            
+            
+        
+
+<div class="establishment-item d-flex">
+    
+            <div class="position-relative">
+            <div class="badge-promos__wrapper">
+    
+    </div>
+            
+
+            
+
+
+                                                                        <div class="slideshow position-relative">
+        <div class="swiper swiper-container js-swiper-main" >
+            <div class="swiper-wrapper" >
+                                                
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA02d7088923a21502159a573c1962203e6a4dc1981a2093ad19c53ea6d248d32b4740c2cd25f6838888134bd62a62bff66e68" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA02d7088923a21502159a573c1962203e6a4dc1981a2093ad19c53ea6d248d32b4740c2cd25f6838888134bd62a62bff66e68?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="eager" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA1f7d8e243adc67387642d604e81b601de0d5ec9fbccc0ed10a8fb0b340ff824bf7fc1fa3b32d809601df502387ee973cdf38" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA1f7d8e243adc67387642d604e81b601de0d5ec9fbccc0ed10a8fb0b340ff824bf7fc1fa3b32d809601df502387ee973cdf38?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAAbb302c41d320a63e5ed2135b3cb88855c047c77970b9abdff242f97d10cec44b879499637720a76c51b78daaebc9ab70ad80" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAAbb302c41d320a63e5ed2135b3cb88855c047c77970b9abdff242f97d10cec44b879499637720a76c51b78daaebc9ab70ad80?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA83aa0f36ac9d02599456d556a09090f189be46ebc66c236f2549f60501c742c3ff47830a9fafb003e32737c69987867bb38b" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA83aa0f36ac9d02599456d556a09090f189be46ebc66c236f2549f60501c742c3ff47830a9fafb003e32737c69987867bb38b?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA255b8593a6a77ef9c631ff6e916c3aa3834bd9348209e79f6c529585a7befcab640f079161e9c3a6508c107b80ad5f0908ca" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA255b8593a6a77ef9c631ff6e916c3aa3834bd9348209e79f6c529585a7befcab640f079161e9c3a6508c107b80ad5f0908ca?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA41493163857330e3185367738cb9f7ab83c7fbe8aa4b4976bf152c986796702c2e3a0969204915b1d07796a21a4032fd62f4" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA41493163857330e3185367738cb9f7ab83c7fbe8aa4b4976bf152c986796702c2e3a0969204915b1d07796a21a4032fd62f4?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA2a575682030620b8d363d70a50e1731907b6c1bdeb67111a6b7d949153607c6a539cd33b1ad569b73f984ea1f4a668635467" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA2a575682030620b8d363d70a50e1731907b6c1bdeb67111a6b7d949153607c6a539cd33b1ad569b73f984ea1f4a668635467?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA7741309577895847570e3cc88800f183886b8faddd0631765a2c2d2a434a289719d1ff885ce1354f6630e84809dceeb984e8" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA7741309577895847570e3cc88800f183886b8faddd0631765a2c2d2a434a289719d1ff885ce1354f6630e84809dceeb984e8?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA0e7f83a71a21999cb2b00c278f1fae490c476654308f51e73c8c8158369f025ed493935a2340f00ae711569506b8755ab799" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA0e7f83a71a21999cb2b00c278f1fae490c476654308f51e73c8c8158369f025ed493935a2340f00ae711569506b8755ab799?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAAfb8b2ba625aeafdd36ffa15ad3fee994802288392093980bbdd7dd37cbe36c9d8446fee2172c13f482af36d2df087104b1a9" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAAfb8b2ba625aeafdd36ffa15ad3fee994802288392093980bbdd7dd37cbe36c9d8446fee2172c13f482af36d2df087104b1a9?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA68debbadf190b9d3d5cfe3c1d61c809d1dae7dc79bb50b50a6af99f52b12c8305a7ed5f392aeaeae0e5c66b28048b0c12ab1" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA68debbadf190b9d3d5cfe3c1d61c809d1dae7dc79bb50b50a6af99f52b12c8305a7ed5f392aeaeae0e5c66b28048b0c12ab1?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA41be29e64b4d0f958be817e0c74f6dec8ab5c3a7471362043178590bfb1848233d92c3fab317da0db7182dd33cc6abe073cf" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA41be29e64b4d0f958be817e0c74f6dec8ab5c3a7471362043178590bfb1848233d92c3fab317da0db7182dd33cc6abe073cf?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA2db4b58e6f7011b1a3834a8c3c484890227bc86e916564daa08fe803cda27343a22a8addd01491fe0d043752786a5c6990aa" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA2db4b58e6f7011b1a3834a8c3c484890227bc86e916564daa08fe803cda27343a22a8addd01491fe0d043752786a5c6990aa?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA25f0fd66051b59c5e17d04021dae3fc7c37511fc16b50e66d1be92ce911d81bf2d3f8a0be5784c08a3b3b0b8a11bdc0fa4ae" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA25f0fd66051b59c5e17d04021dae3fc7c37511fc16b50e66d1be92ce911d81bf2d3f8a0be5784c08a3b3b0b8a11bdc0fa4ae?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                                            <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" class="swiper-slide text-decoration-none d-block cursor-pointer" target=_blank>
+                                                                    <img id="AAEAAQAAAAAAAAAAAAAA8177b5609c3f1e4d33084f018f0a9e5c11b654bd95fdd9bf80b1a2a08a45ddbe5e554f2d97be7238a9dcc1a86c3e999829f8" class=""
+                            src="https://travelground.imgix.net/AAEAAQAAAAAAAAAAAAAA8177b5609c3f1e4d33084f018f0a9e5c11b654bd95fdd9bf80b1a2a08a45ddbe5e554f2d97be7238a9dcc1a86c3e999829f8?w=400&amp;h=275&amp;fit=crop&amp;auto=enhance,format,compress&amp;q=80"
+                            loading="lazy" />
+                        
+                        <div class="swiper-lazy-preloader">
+                            <div class="btn-loader"><div class="rect1"></div><div class="rect2"></div><div class="rect3"></div> <div class="rect4"></div> <div class="rect5"></div></div>
+                        </div>
+
+                                            </a>
+                                                        
+                            </div>
+
+                            <div class="swiper-button swiper-button-prev">
+                    <span class="fa-stack">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fal fa-chevron-circle-left fa-stack-2x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="swiper-button swiper-button-next">
+                    <span class="fa-stack">
+                        <i class="fas fa-circle fa-stack-2x"></i>
+                        <i class="fal fa-chevron-circle-right fa-stack-2x fa-inverse"></i>
+                    </span>
+                </div>
+                    </div>
+
+
+            <div class="social-banner p-2 d-inline-block">
+                
+                                    <span class="js-open-modal slider-btn rounded fa-stack cursor-pointer"
+                        data-target="wishlist"
+                        data-eid="103248"
+                        data-favourite-status="false">
+                        <i class="fas fa-heart fa-stack-1x d-none cursor-pointer-events-none" style="font-size: 18px;color: rgba(255, 90, 95, 0.6);"></i>
+                        <i class="fal fa-heart fa-stack-1x fa-inverse fa-fw cursor-pointer-events-none" style="font-size: 18px;"></i>
+                    </span>
+                            </div>
+            </div>
+
+            
+        </div>
+    
+    <div class="establishment-item__box ml-1 ml-md-2">
+                <div class="d-flex justify-content-between mb-1 mb-md-auto">
+                        <div class="establishment-item__content">
+                <a class="d-block text-decoration-none mb-0" href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef" title="Abaloo Woonstel 1" target=_blank>
+                    <h3 class="establishment-item__name text-primary font-weight-bold mb-0">
+                                                Abaloo Woonstel 1
+                    </h3>
+                </a>
+                                                <div class="font-size-sm establishment-item__type">
+                    Self Catering
+                    <span class="d-none d-md-inline-block" style="color:#999"> in </span>
+                    <span class="d-md-none"> | </span>
+                    <a href="/accommodation-in/sabie"
+                            class="text-decoration-none" target="_blank"><span class="d-none d-md-inline">Sabie,&nbsp;</span><span class="d-inline d-md-none">Sabie</span></a><span class="d-none d-md-inline-block">Kruger To Canyons</span>                </div>
+
+            </div>
+                        <div class="establishment-item__price-desktop d-none d-md-block col-5 px-0">
+                                
+                                        
+    
+        
+            
+                
+        
+                    <div class="js-pricebox-small text-right pricebox-results">
+                <div class="font-size-sm font-weight-bold">
+                    <div class="price-sub-text">
+                        <span class="font-weight-normal font-size-sm ">From</span>
+                                            </div>
+                    <div class="price text-nowrap ">
+                                                <span class="">
+                                                        <span class=" ">
+                                                                                                                                 R800
+                            </span>
+                        </span>
+
+                                            </div>
+                </div>
+
+                                    <div class="font-size-sm price-sub-text ">
+                        
+                                                            per night&nbsp;(sleeps 4)
+                                                                        </div>
+                
+                
+                            </div>
+            
+                                
+                            </div>
+        </div>
+        
+                    <p class="establishment-item__description d-none d-md-block d-lg-block d-lg-block font-size-xs my-md-1 my-lg-2 mb-sm-1 mb-md-auto mt-sm-2">
+                                                
+                Abaloo Woonstel 1 offers comfortable self-catering accommodation with a separate entrance on the owner’s property w...
+            </p>
+        
+                
+
+                <div class="mb-md-1 mb-md-0 mb-lg-b-1 mt-lg-1 mb-lg-2 mt-md-n2">
+                                        
+        </div>
+
+                <div class="d-flex flex-column flex-lg-row justify-content-between align-items-start align-items-md-end mb-xs-0 mb-sm-0 mt-md-auto characteristics-box">
+
+                                <div class="d-none d-md-block d-md-block d-xl-block">
+                <div class="characteristics font-size-xs d-flex flex-column justify-content-end">
+                    
+                                                
+                                                    <div class="d-flex flex-nowrap align-items-center " style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Braai Area</span>
+                            </div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Secure Parking</span>
+                            </div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Free Wifi</span>
+                            </div>
+                                                    <div class="d-none d-lg-flex flex-nowrap align-items-center mt-sm-1" style="line-height:1.4;"><i class="fa fa-check mr-2"></i>
+                                <span class="text-truncate text-capitalize">Kitchen Facilities</span>
+                            </div>
+                                                            </div>
+            </div>
+
+            
+                                                                                    
+            <div class="d-md-none d-md-none d-xs-block d-sm-block">
+                <div class="characteristics font-size-xs d-flex flex-column justify-content-end">
+                                                                                
+                    
+                                                                        <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Braai Area</span></div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Secure Parking</span></div>
+                                                    <div class="d-flex flex-nowrap align-items-center mt-md-2" style="line-height:1.4;"><i class="fa fa-check mr-1"></i>
+                            <span class="text-truncate text-capitalize">Free Wifi</span></div>
+                                                            </div>
+            </div>
+        
+                        <div class="d-none d-md-flex flex-column justify-content-end">
+
+                
+                
+                
+                <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef&amp;page_number=11" class="btn btn-primary text-decoration-none" target=_blank>View More</a>
+            </div>
+        </div>
+
+        <div class="mobile-pricebox d-md-none ">
+                            
+                                        
+    
+        
+            
+                
+        
+                    <div class=" text-right pricebox-results">
+                <div class="font-size-xs font-weight-bold">
+                    <div class="price-sub-text">
+                        <span class="font-weight-normal font-size-sm ">From</span>
+                                            </div>
+                    <div class="price text-nowrap ">
+                                                <span class="text-primary">
+                                                            <span class="d-none">From</span>
+                                                        <span class=" ">
+                                                                                                                                 R800
+                            </span>
+                        </span>
+
+                                            </div>
+                </div>
+
+                                    <div class="font-size-xs price-sub-text ">
+                        
+                                                            per night&nbsp;(sleeps 4)
+                                                                        </div>
+                
+                
+                            </div>
+            
+                                
+
+        </div>
+
+        <a href="/accommodation/abaloo-woonstel-1?uuid=9f64f48e912c9edd668b58104d7392ef&amp;page_number=11"
+            class="establishment-item__mobile-anchor text-decoration-none d-block d-md-none">
+            <i class="establishment-item__chevron d-md-none fas fa-chevron-right"></i>
+        </a>
+    </div>
+
+</div>
+            
+            
+                        </div>
+            
+                                    
+    
+                                                
+    <div class="w-100">
+        <div class="d-none d-md-flex pagination__wrapper align-items-center px-2 py-1 mb-4">
+            <span class="mr-2">Page</span>
+            <nav aria-label="Page navigation">
+            <ul class="pagination justify-content-center mb-0">
+                                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/1"
+                            data-page="1">
+                                1
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/2"
+                            data-page="2">
+                                2
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/3"
+                            data-page="3">
+                                3
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/4"
+                            data-page="4">
+                                4
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/5"
+                            data-page="5">
+                                5
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/6"
+                            data-page="6">
+                                6
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/7"
+                            data-page="7">
+                                7
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/8"
+                            data-page="8">
+                                8
+                        </a>
+                    </li>
+                                                                                                                                                        <li class="page-item">
+                                                <a class=" page-link text-dark text-decoration-none rounded"
+                            href="/accommodation-in/kruger-to-canyons/9"
+                            data-page="9">
+                                9
+                        </a>
+                    </li>
+                            </ul>
+
+            </nav>
+            <div class="ml-auto">
+                                  Page 11 - 
+                                Showing 101 to 110
+            </div>
+        </div>
+        <div class="d-flex justify-content-end text-decoration-none">
+                                        <a href="/accommodation-in/kruger-to-canyons/10"
+                    class=" d-flex btn py-2 btn-dark align-items-center font-size-xs text-decoration-none mr-auto"
+                    data-page="10">
+                    <i class="fas fa-chevron-left mr-2"></i>
+                    previous page
+                </a>
+                                        <a href="/accommodation-in/kruger-to-canyons/12"
+                class=" btn py-2 btn-dark d-flex align-items-center font-size-xs text-decoration-none"
+                data-page="12">
+                    next page
+                    <i class="fas fa-chevron-right ml-2"></i>
+                </a>
+                    </div>
+    </div>
+</div>
+                    				</div>
+
+                
+        
+        
+    
+            
+                                
+            <p class="d-none d-lg-block mb-5">
+            Welcome to the Kruger To Canyons accommodation page - browse our varied selection of hotels, B&B's, guesthouses and self-catering below, or check out our Lowveld page if you're looking for more <a style='color:#555;' href='/accommodation-in/lowveld' title='Browse Accommodation in Lowveld'>Lowveld accommodation</a>. Once you've chosen your perfect accommodation, you can pay easily through LekkeSlaap's secure payment portal.
+                    </p>
+                                    
+			</div>
+
+		</div>
+	</div>
+    
+    <script type="text/javascript">
+        if (navigator.cookieEnabled) {
+            let local = window.localStorage.getItem('logs-results-click');
+
+            local = local != null ? JSON.parse(local) : {}
+
+            // Sets data on page landing for logging results click
+            let data = {"general":{"mobile":0,"page_type":"results.region","check_in":"","check_out":"","pax":2,"region_id":1408,"raw_num_results":450,"prefilter_postavailability_num_results":448,"final_num_results":448,"page_number":11,"active_sorts":"ranking","session_id":"dmt7kn2buqm4iu2utuji13vq0k","user_id":0,"logged_in":false,"search_time":"2023-07-19 18:54:53"},"establishments":{"90340":{"log_id":0,"establishment_id":"90340","name":"Sabi Falls Accommodation","ranking_score":993,"ranking_score_type":"default","raw_position":100,"prefilter_postavailability_position":101,"final_position":101,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":590,"was_price":590},"427":{"log_id":0,"establishment_id":"427","name":"Thaba Tsweni Lodge","ranking_score":992,"ranking_score_type":"default","raw_position":101,"prefilter_postavailability_position":102,"final_position":102,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":1350,"was_price":1350},"15788":{"log_id":0,"establishment_id":"15788","name":"Mackers","ranking_score":992,"ranking_score_type":"default","raw_position":102,"prefilter_postavailability_position":103,"final_position":103,"is_favourite":false,"has_reaction":false,"price_type":"per person","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":700,"was_price":700},"5762":{"log_id":0,"establishment_id":"5762","name":"Gecko Lodge","ranking_score":988,"ranking_score_type":"default","raw_position":103,"prefilter_postavailability_position":104,"final_position":104,"is_favourite":false,"has_reaction":false,"price_type":"per person","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":1770,"was_price":1770},"35789":{"log_id":0,"establishment_id":"35789","name":"Switsongo Boutique Bed and Breakfast","ranking_score":987,"ranking_score_type":"default","raw_position":104,"prefilter_postavailability_position":105,"final_position":105,"is_favourite":false,"has_reaction":false,"price_type":"per person","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":1900,"was_price":1900},"75203":{"log_id":0,"establishment_id":"75203","name":"The Sabie Town House Guest Lodge","ranking_score":980,"ranking_score_type":"default","raw_position":105,"prefilter_postavailability_position":106,"final_position":106,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":1335,"was_price":1335},"14821":{"log_id":0,"establishment_id":"14821","name":"Villa Rostrata-on-Lake","ranking_score":978,"ranking_score_type":"default","raw_position":106,"prefilter_postavailability_position":107,"final_position":107,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":3500,"was_price":3500},"16684":{"log_id":0,"establishment_id":"16684","name":"Maninghi Lodge","ranking_score":978,"ranking_score_type":"default","raw_position":107,"prefilter_postavailability_position":108,"final_position":108,"is_favourite":false,"has_reaction":false,"price_type":"per person","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":4500,"was_price":4500},"46281":{"log_id":0,"establishment_id":"46281","name":"Leopard Rock Lodge","ranking_score":975,"ranking_score_type":"default","raw_position":108,"prefilter_postavailability_position":109,"final_position":109,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":7500,"was_price":7500},"103248":{"log_id":0,"establishment_id":"103248","name":"Abaloo Woonstel 1","ranking_score":974,"ranking_score_type":"default","raw_position":109,"prefilter_postavailability_position":110,"final_position":110,"is_favourite":false,"has_reaction":false,"price_type":"per unit","properly_in_region":1,"availability_status":0,"special_type":"","special_percentage":null,"click_time":0,"thread_id":0,"current_price":800,"was_price":800}},"uuid":"9f64f48e912c9edd668b58104d7392ef"}
+
+            if (false && window.tg.is_ie_11 == false && data.establishments !== undefined && window.tg.is_vm) {
+                console.table(data.establishments)
+            }
+
+            // Only store new entries
+            if (data !== null && local[data.uuid] === undefined) {
+                local[data.uuid] = data
+                window.localStorage.setItem('logs-results-click', JSON.stringify(local));
+            }
+        }
+    </script>
+    
+        </main>
+
+                        
+                                    <div class="" style="">
+                    
+
+                
+
+
+<div class="mt-0">
+    <div class="row no-gutters d-none ">
+            <svg width="100%" height="100%" viewBox="0 0 1440 134" preserveAspectRatio="none"  fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M-4 28L984.5 118.5L1440 28V134H-4V28Z" fill="#e5e5e6"/>
+        <path d="M639.388 111.624L702.451 14.7493C706.211 8.97135 715.386 8.97135 719.146 14.7493L729.819 31.1458L707.823 65.5469C707.05 66.7578 707.401 68.3691 708.61 69.1439L712.984 71.9499C714.193 72.7246 715.802 72.373 716.576 71.1621L736.043 40.7129L759.056 4.72656C763.086 -1.57552 772.915 -1.57552 776.945 4.72656L844.512 110.41C848.597 116.8 843.787 125 835.952 125H647.38C640.067 125 635.576 117.484 639.388 111.624V111.624Z" fill="#e5e5e6"/>
+        <path d="M943.692 121.373L884.267 29.9234C880.724 24.469 872.078 24.469 868.535 29.9234L858.478 45.4017L879.205 77.8762C879.934 79.0194 879.603 80.5405 878.464 81.2718L874.342 83.9207C873.202 84.652 871.686 84.3201 870.958 83.177L852.613 54.433L830.928 20.4619C827.13 14.5127 817.869 14.5127 814.072 20.4619L750.402 120.227C746.552 126.259 751.085 134 758.469 134H936.161C943.052 134 947.284 126.905 943.692 121.373V121.373Z" fill="#e5e5e6"/>
+        <g clip-path="url(#clip0_338_78)">
+        <path d="M976.3 112.782C976.592 114.735 975.239 116.551 973.277 116.839C972.978 116.884 972.683 116.888 972.395 116.86C970.793 116.703 969.441 115.482 969.191 113.828L967.468 102.334L973.941 97.0467L976.3 112.782V112.782ZM976.769 90.8287L973.899 72.7004C973.745 71.741 974.434 70.8515 975.438 70.7131C980.456 70.0241 985.148 73.3537 985.916 78.1512L987.673 89.3305C987.826 90.29 987.138 91.1794 986.134 91.3178L978.865 92.3171C977.86 92.4543 976.922 91.7882 976.769 90.8287ZM947.615 74.9518L949.403 75.1268C950.391 75.2234 951.114 76.0973 951.018 77.0794L950.844 78.8571L954.727 79.2372L960.464 74.5512C961.824 73.4381 963.541 72.9207 965.296 73.0924C968.315 73.3879 970.737 75.6776 971.185 78.6626L973.022 90.9254C973.114 91.5357 973.044 92.159 972.822 92.7346C972.599 93.3101 972.23 93.8184 971.751 94.2099L961.129 102.887L960.229 112.081C960.037 114.044 958.28 115.479 956.305 115.286C954.33 115.093 952.884 113.344 953.077 111.381L953.976 102.187C954.162 100.288 955.081 98.5753 956.564 97.3642L962.305 92.6742C962.294 92.617 962.26 92.57 962.251 92.5108L960.894 83.4525L958.143 85.6993C957.407 86.3003 956.461 86.5869 955.513 86.4941L950.149 85.9692L947.539 112.635C947.443 113.617 946.565 114.334 945.577 114.238L943.789 114.063C942.801 113.966 942.079 113.092 942.175 112.11L945.654 76.5546C945.749 75.5723 946.627 74.8551 947.615 74.9518ZM962.616 69.2408C959.653 68.9509 957.485 66.3282 957.774 63.3827C958.062 60.4373 960.697 58.2846 963.66 58.5745C966.622 58.8644 968.79 61.4871 968.502 64.4326C968.214 67.378 965.579 69.5307 962.616 69.2408Z" fill="#e5e5e6"/>
+        </g>
+        <g clip-path="url(#clip1_338_78)">
+        <path opacity="0.4" d="M997.322 29.9375H994.35C993.196 29.9375 992.09 29.4831 991.274 28.6744C990.458 27.8656 990 26.7687 990 25.625C990 24.4813 990.458 23.3844 991.274 22.5756C992.09 21.7669 993.196 21.3125 994.35 21.3125C994.377 21.3125 994.4 21.3215 994.422 21.3215C994.771 18.8822 996.869 17 999.425 17C1000.46 17.001 1001.46 17.3143 1002.31 17.898C1003.15 18.4817 1003.8 19.3079 1004.16 20.2658C1004.72 20.0098 1005.33 19.8765 1005.95 19.875C1007.1 19.875 1008.21 20.3294 1009.03 21.1381C1009.84 21.9469 1010.3 23.0438 1010.3 24.1875C1010.3 24.7224 1010.19 25.2516 1009.98 25.7463C1009.48 25.8493 1009 26.0281 1008.55 26.2764C1007.95 25.6179 1007.21 25.092 1006.39 24.7323C1005.56 24.3726 1004.67 24.187 1003.77 24.1875C1000.43 24.1875 997.69 26.7121 997.322 29.9375Z" fill="#ABA9A9"/>
+        <path d="M1019 35.6875C1019 36.8313 1018.54 37.9282 1017.73 38.7369C1016.91 39.5457 1015.8 40 1014.65 40H1000.15C998.996 40 997.89 39.5457 997.074 38.7369C996.258 37.9282 995.8 36.8313 995.8 35.6875C995.8 33.7783 997.059 32.1746 998.795 31.6086C998.733 31.2948 998.701 30.976 998.7 30.6563C998.699 29.9954 998.83 29.341 999.085 28.7305C999.34 28.1199 999.714 27.5651 1000.19 27.0978C1000.66 26.6306 1001.22 26.26 1001.83 26.0073C1002.45 25.7545 1003.11 25.6246 1003.77 25.625C1005.73 25.625 1007.42 26.7436 1008.26 28.3563C1008.93 27.5701 1009.91 27.0625 1011.02 27.0625C1011.99 27.0625 1012.91 27.4411 1013.59 28.1151C1014.27 28.789 1014.65 29.7031 1014.65 30.6563C1014.65 30.9007 1014.63 31.1446 1014.58 31.384C1014.6 31.384 1014.62 31.375 1014.65 31.375C1015.8 31.375 1016.91 31.8294 1017.73 32.6381C1018.54 33.4469 1019 34.5438 1019 35.6875Z" fill="#D4D4D4"/>
+        </g>
+        <defs>
+        <clipPath id="clip0_338_78">
+        <rect width="43.1194" height="57.1583" fill="white" transform="matrix(-0.995246 -0.0973915 -0.0973915 0.995246 990.481 61.1992)"/>
+        </clipPath>
+        <clipPath id="clip1_338_78">
+        <rect width="29" height="23" fill="white" transform="translate(990 17)"/>
+        </clipPath>
+        </defs>
+    </svg>
+
+    </div>
+    <div class="row no-gutters d-none">
+            <svg width="100%" height="100%" viewBox="0 0 390 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M-5 70L314.5 92L390 70V120H-5V70Z" fill="#e5e5e6"/>
+        <path d="M59.9008 73.7836L100.831 9.74931C103.272 5.93006 109.227 5.93006 111.667 9.74931L118.594 20.5874L104.318 43.3264C103.816 44.1269 104.044 45.1919 104.829 45.7041L107.668 47.5588C108.452 48.0709 109.497 47.8385 109.999 47.0381L122.634 26.9112L137.57 3.12425C140.186 -1.04142 146.565 -1.04142 149.18 3.12425L193.034 72.981C195.686 77.2048 192.564 82.6249 187.478 82.6249H65.0878C60.3417 82.6249 57.4265 77.6566 59.9008 73.7836V73.7836Z" fill="#e5e5e6"/>
+        <path d="M257.153 84.3228L218.648 24.2412C216.352 20.6578 210.75 20.6578 208.454 24.2412L201.937 34.4103L215.367 55.7457C215.84 56.4967 215.625 57.4961 214.887 57.9766L212.216 59.7168C211.478 60.1973 210.496 59.9793 210.024 59.2283L198.137 40.3438L184.086 18.0251C181.625 14.1166 175.624 14.1166 173.164 18.0251L131.908 83.5698C129.414 87.5328 132.351 92.6183 137.135 92.6183H252.273C256.738 92.6183 259.48 87.9568 257.153 84.3228Z" fill="#e5e5e6"/>
+        <g clip-path="url(#clip0_1220_7496)">
+        <path d="M304.318 88.9153C304.507 90.1817 303.63 91.359 302.358 91.5457C302.164 91.5748 301.973 91.5771 301.786 91.5588C300.748 91.4573 299.871 90.6661 299.709 89.5936L298.592 82.1419L302.788 78.7143L304.318 88.9153ZM304.622 74.6832L302.761 62.9308C302.662 62.3088 303.108 61.7321 303.759 61.6424C307.012 61.1957 310.054 63.3543 310.552 66.4645L311.691 73.7119C311.79 74.334 311.344 74.9106 310.693 75.0003L305.981 75.6481C305.329 75.7371 304.721 75.3053 304.622 74.6832ZM285.722 64.3903L286.881 64.5037C287.522 64.5664 287.99 65.1329 287.928 65.7697L287.815 66.9221L290.332 67.1685L294.051 64.1306C294.933 63.409 296.046 63.0736 297.184 63.1849C299.141 63.3765 300.711 64.8609 301.002 66.796L302.193 74.7459C302.252 75.1416 302.207 75.5457 302.063 75.9188C301.919 76.2919 301.679 76.6214 301.369 76.8752L294.483 82.5003L293.899 88.4608C293.775 89.7335 292.635 90.6641 291.355 90.5388C290.075 90.4136 289.138 89.2798 289.262 88.007L289.846 82.0466C289.966 80.8156 290.562 79.7053 291.523 78.9201L295.245 75.8797C295.238 75.8426 295.216 75.8121 295.21 75.7737L294.33 69.9013L292.547 71.3579C292.07 71.7475 291.456 71.9333 290.842 71.8731L287.364 71.5328L285.673 88.82C285.61 89.4567 285.041 89.9217 284.401 89.859L283.241 89.7456C282.601 89.6829 282.133 89.1164 282.195 88.4797L284.451 65.4294C284.512 64.7926 285.081 64.3276 285.722 64.3903ZM295.447 60.6879C293.526 60.4999 292.121 58.7997 292.307 56.8902C292.494 54.9806 294.203 53.5851 296.123 53.773C298.044 53.961 299.45 55.6613 299.263 57.5708C299.076 59.4803 297.367 60.8758 295.447 60.6879Z" fill="#e5e5e6"/>
+        </g>
+        <g clip-path="url(#clip1_1220_7496)">
+        <path opacity="0.4" d="M321.332 30.625H317.95C316.637 30.625 315.378 30.1114 314.45 29.1971C313.522 28.2829 313 27.0429 313 25.75C313 24.4571 313.522 23.2171 314.45 22.3029C315.378 21.3886 316.637 20.875 317.95 20.875C317.981 20.875 318.007 20.8852 318.032 20.8852C318.43 18.1277 320.817 16 323.725 16C324.898 16.0011 326.043 16.3553 327.006 17.0151C327.969 17.675 328.704 18.6089 329.113 19.6918C329.752 19.4024 330.447 19.2517 331.15 19.25C332.463 19.25 333.722 19.7636 334.65 20.6779C335.578 21.5921 336.1 22.8321 336.1 24.125C336.095 24.7297 335.973 25.3279 335.739 25.8871C335.168 26.0035 334.618 26.2056 334.11 26.4863C333.421 25.742 332.581 25.1475 331.645 24.7409C330.71 24.3342 329.698 24.1245 328.675 24.125C324.865 24.125 321.75 26.9789 321.332 30.625Z" fill="#ABA9A9"/>
+        <path d="M346.002 37.125C346.002 38.4179 345.48 39.6579 344.552 40.5722C343.623 41.4864 342.364 42 341.052 42H324.552C323.239 42 321.98 41.4864 321.051 40.5722C320.123 39.6579 319.602 38.4179 319.602 37.125C319.602 34.9668 321.035 33.1539 323.01 32.5141C322.94 32.1593 322.903 31.7989 322.902 31.4375C322.901 30.6905 323.05 29.9507 323.34 29.2605C323.63 28.5703 324.056 27.9432 324.592 27.4149C325.128 26.8867 325.765 26.4678 326.466 26.1821C327.167 25.8964 327.918 25.7496 328.677 25.75C330.904 25.75 332.822 27.0145 333.781 28.8375C334.539 27.9488 335.658 27.375 336.927 27.375C338.021 27.375 339.07 27.803 339.843 28.5649C340.617 29.3267 341.052 30.3601 341.052 31.4375C341.053 31.7138 341.026 31.9895 340.969 32.2602C340.995 32.2602 341.021 32.25 341.052 32.25C342.364 32.25 343.623 32.7636 344.552 33.6779C345.48 34.5921 346.002 35.8321 346.002 37.125Z" fill="#D4D4D4"/>
+        </g>
+        <defs>
+        <clipPath id="clip0_1220_7496">
+        <rect width="27.9541" height="37.0554" fill="white" transform="matrix(-0.995246 -0.0973915 -0.0973915 0.995246 313.512 55.4746)"/>
+        </clipPath>
+        <clipPath id="clip1_1220_7496">
+        <rect width="33" height="26" fill="white" transform="translate(313 16)"/>
+        </clipPath>
+        </defs>
+    </svg>
+
+    </div>
+</div>
+
+<footer class="footer container-fluid footer-2207-container px-0">
+    <div class="container-xl px-0 py-2">
+        <div class="row mx-lg-0 mx-auto pt-4 pb-4  px-0 justify-content-lg-between justify-content-center">
+                        <div class="col-lg-4 col-sm-10 col-md-6 col-12 flex-grow-1 d-md-flex justify-content-lg-between">
+                <div class="d-flex flex-column justify-content-between h-100">
+                    <div class="text-lg-left text-center">
+                        <a href="/en" class="d-block"><img style="max-width:290px;" alt="LekkeSlaap" class="img-fluid" src="/cdn/images/brand/ls/logos/logo.svg?hash=916e0b65d0" width="290" height="71"></a>
+                    </div>
+                    <div>
+                                                    <h5 class="m-0 mt-lg-0 mt-4 text-lg-left text-center">Follow us on social media</h5>
+                                                <div class="d-flex justify-content-between align-items-center mt-4 mx-lg-0 mx-auto footer-logos">
+                            <a href="https://www.facebook.com/Lekkeslaap" target="_blank" rel="noopener" class="d-inline-block social-media-link text-center text-dark text-decoration-none mr-lg-4 ml-lg-0 mx-2">
+                                <i class="fa-brands fa-facebook-square"></i>
+                                <span class="logo-text">Facebook</span>
+                            </a>
+                            <a href="https://www.pinterest.com/lekkeslaap/" target="_blank" rel="noopener" class="d-inline-block social-media-link text-center text-dark text-decoration-none mr-lg-4 ml-lg-0 mx-2">
+                                <i class="fa-brands fa-pinterest-square"></i>
+                                <span class="logo-text">Pinterest</span>
+                            </a>
+                            <a href="https://www.instagram.com/lekkeslaap.co.za/" target="_blank" rel="noopener" class="d-inline-block social-media-link text-center text-dark text-decoration-none mr-lg-4 ml-lg-0 mx-2">
+                                <i class="fa-brands fa-instagram-square"></i>
+                                <span class="logo-text">Instagram</span>
+                            </a>
+                            <a href="https://www.twitter.com/lekkeslaap" target="_blank" rel="noopener" class="d-inline-block social-media-link text-center text-dark text-decoration-none mr-lg-4 ml-lg-0 mx-2">
+                                <i class="fa-brands fa-twitter-square"></i>
+                                <span class="logo-text">Twitter</span>
+                            </a>
+                        </div>
+                    </div>
+                                    </div>
+            </div>
+
+                        <div class="col-4 d-none d-lg-none d-md-flex align-items-center justify-content-center">
+                <a target="_blank" href="https://www.worldtravelawards.com/award-south-africas-leading-online-travel-agency-2022">
+                    <img src="/cdn/images/brand/ls/illustrations/award.png?hash=916e0b65d0" loading="lazy" width="125" class="mx-auto mx-md-0 pt-6 pt-md-0">
+                </a>
+            </div>
+
+            <div class="col-12 d-lg-none mt-4">
+                <hr class="footer-separator">
+            </div>
+
+                        <div class="col-lg-4 col-md-6 col-sm-10 col-12 my-lg-0 my-4">
+                <div class="d-flex flex-column justify-content-between mx-auto">
+                    <div>
+                                                    <h5 class="m-0">What does lekke mean?</h5>
+                                                <div class="lekke-description mt-3">
+                                                            <strong>lekke</strong> adj. <i>(Afr., slang.)</i> From Afr. <i>lekker</i> as in the expression Jy moet lekker slaap. Describes something that is enjoyable. <i>Have a lekke stay; What a lekke website to book accommodation in South Africa and Namibia; They're a lekke group of people.</i>
+                                <br/>
+                                                    </div>
+                    </div>
+                    <div class="d-flex justify-content-start align-items-center mt-lg-5 mt-4">
+                        <a class="btn btn-primary get-app-link text-decoration-none" href="https://www.lekkeslaap.co.za/app-landing-page/?source=footer-left">Get the app</a>
+                        <span class="app-store-icon apple text-white text-lg ml-3 d-md-inline d-none"><i class="fa-brands fa-app-store"></i></span>
+                        <span class="app-store-icon google text-white mx-3 d-md-inline d-none"><i class="ml-2 fa-brands fa-google-play"></i></span>
+                        <span class="huawei d-md-inline d-none"><img src="/cdn/images/stays/components/icons/huawei-app-gallery-grey.svg?hash=916e0b65d0" loading="lazy" width="36" height="36"></span>
+                    </div>
+                </div>
+            </div>
+
+                                    <div class="col-lg-2 col-md-4 col-sm-10 col-7 flex-grow-1 my-lg-0 my-md-4">
+                <div class="d-flex flex-column justify-content-between align-items-start mx-auto h-100">
+                    <div>
+                                                    <h5 class="m-0">More handy links</h5>
+                                                <div class="footer-links mt-3">
+                            <a class="d-block text-primary text-decoration-none py-0 mb-2 mb-md-1" href="/contact">Contact LekkeSlaap</a>
+                            <a class="d-block text-primary text-decoration-none py-0 mb-2 mb-md-1" href="/rewards">LekkeSlaap Rewards</a>
+                            <a class="d-block text-primary text-decoration-none py-0 mb-2 mb-md-1" href="/signup">Host with Us</a>
+                            <a class="d-block text-primary text-decoration-none py-0 mb-2 mb-md-1" href="/vouchers">Gift Vouchers</a>
+                            <a class="d-block text-primary text-decoration-none py-0 mb-2 mb-md-1" href="/blog">LekkeSlaap Blog</a>
+                        </div>
+                    </div>
+                    <div class="mt-3">
+                        <a class="language-select-button footer-desktop-button js-change-language text-select-none text-decoration-none d-flex justify-content-start align-items-center"
+                            href="javascript:void(0);"
+                            data-source="toggle"
+                            data-original-preference="en"
+                            data-new-preference="af"
+                            title="Verander na Afrikaans">
+                            <div class="button-icon mr-2 d-inline-block cursor-pointer-events-none"><i class="fas fa-repeat"></i></div>
+                            <div class="button-text d-inline-block d-flex flex-column cursor-pointer-events-none">
+                                <span class="switch-to d-block mt-1">Verander na</span>
+                                <span class="language d-block">Afrikaans</span>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+                        <div class="col-5 d-md-none d-flex align-items-center">
+                <a target="_blank" href="https://www.worldtravelawards.com/award-south-africas-leading-online-travel-agency-2022">
+                    <img src="/cdn/images/brand/ls/illustrations/award.png?hash=916e0b65d0" loading="lazy" width="100" class="mx-auto">
+                </a>
+            </div>
+            
+                        <div class="col-lg-2 col-12 my-md-4 d-none d-lg-flex align-items-center justify-content-center">
+                <a target="_blank" href="https://www.worldtravelawards.com/award-south-africas-leading-online-travel-agency-2022">
+                    <img src="/cdn/images/brand/ls/illustrations/award.png?hash=916e0b65d0" loading="lazy" width="125" class="mx-auto mx-md-0">
+                </a>
+            </div>
+        </div>
+    </div>
+
+        
+        <div class="row no-gutters bg-light text-dark company-details-container">
+        <div class="container-xl">
+            <div class="row align-items-center my-2">
+                <div class="col-lg-8 col-12 order-lg-0 order-1 text-lg-left text-center company-text">
+                    © 2023 <a href="https://tripco.africa" target="_blank" rel="noopener">Tripco (Pty) Ltd.</a> t/a LekkeSlaap.co.za
+                                            <span class="d-inline mx-1">&bull;</span>
+                        <a href="/sitemap">Site Map</a>
+                        <span class="d-inline mx-1">&bull;</span>
+                        <a href="/terms">Terms & Conditions</a>
+                                    </div>
+                <div class="col-lg-4 col-12 order-lg-1 order-0 d-flex flex-nowrap justify-content-lg-end justify-content-center align-items-center font-size-xs mb-1 text-lg-left text-center">
+                    <span class="d-inline-block font-size-md font-weight-bold mr-1 mr-sm-3"><em>EFT</em></span>
+                    <i class="fab fa-3x fa-cc-visa mx-1 mx-sm-3 font-size-lg"></i>
+                    <i class="fab fa-3x fa-cc-mastercard mx-1 mx-sm-3 font-size-lg"></i>
+                                        <span class="d-flex justify-content-center align-items-center ml-1 ml-sm-3">
+                        <i class="fal fa-3x fa-shield-check font-size-md"></i>&nbsp;<span class="d-inline-block font-size-md pl-1">SSL</span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+                </div>
+                    
+        
+    
+    
+        <script src="/accomm/public/assets/module-7268.js?v=ddef6a" defer></script>
+<script src="/accomm/public/assets/module-1771.js?v=708f91" defer></script>
+<script src="/accomm/public/assets/module-7121.js?v=5fb57a" defer></script>
+<script src="/accomm/public/assets/module-982.js?v=7f0b01" defer></script>
+<script src="/accomm/public/assets/module-1711.js?v=b15a54" defer></script>
+<script src="/accomm/public/assets/module-8546.js?v=8f997b" defer></script>
+<script src="/accomm/public/assets/module-9407.js?v=b55104" defer></script>
+<script src="/accomm/public/assets/module-5026.js?v=9fdd84" defer></script>
+<script src="/accomm/public/assets/module-8784.js?v=c9ab47" defer></script>
+<script src="/accomm/public/assets/module-3795.js?v=9d397f" defer></script>
+<script src="/accomm/public/assets/module-scripts/main-defer.entry.js?v=24bed5" defer></script>
+
+        	<script src="/accomm/public/assets/module-7268.js?v=ddef6a" defer></script>
+<script src="/accomm/public/assets/module-1771.js?v=708f91" defer></script>
+<script src="/accomm/public/assets/module-7121.js?v=5fb57a" defer></script>
+<script src="/accomm/public/assets/module-982.js?v=7f0b01" defer></script>
+<script src="/accomm/public/assets/module-1711.js?v=b15a54" defer></script>
+<script src="/accomm/public/assets/module-8546.js?v=8f997b" defer></script>
+<script src="/accomm/public/assets/module-2522.js?v=bc4071" defer></script>
+<script src="/accomm/public/assets/module-4650.js?v=e1a0ad" defer></script>
+<script src="/accomm/public/assets/module-1801.js?v=b9076a" defer></script>
+<script src="/accomm/public/assets/module-9407.js?v=b55104" defer></script>
+<script src="/accomm/public/assets/module-3795.js?v=9d397f" defer></script>
+<script src="/accomm/public/assets/module-scripts/results/list.entry.js?v=e4f2c3" defer></script>
+    
+                    
+                
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-5318665-12', {'cookieDomain': 'lekkeslaap.co.za', 'legacyCookieDomain': 'lekkeslaap.co.za'});
+ga('require', 'linkid', 'linkid.js');
+ga('require', 'displayfeatures');
+ga('send', 'pageview', {'dimension1': 'Normal User'});
+
+</script>
+<!-- End Google Analytics -->
+
+
+				<!-- Global site tag (gtag.js) - Google AdWords: 854870287 -->
+				<script async src='https://www.googletagmanager.com/gtag/js?id=AW-854870287'></script>
+				<script>
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+				  gtag('config', 'AW-854870287');
+				</script>
+				<!-- Global site tag (gtag.js) - Google Ads: 1032141427 -->
+				<script async src='https://www.googletagmanager.com/gtag/js?id=AW-1032141427'></script>
+				<script>
+					window.dataLayer = window.dataLayer || [];
+					function gtag(){dataLayer.push(arguments);}
+					gtag('js', new Date());
+					gtag('config', 'AW-1032141427');
+				</script><!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N5J6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N5J6');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+// Insert Your Facebook Pixel ID below.
+fbq('init', '650477528454841');
+fbq('track', 'PageView');
+
+fbq('track', 'ViewContent',
+{"content_type":"destination","content_ids":[1408],"destination_ids":["8"],"region":"Mpumalanga","price":280}
+);
+
+fbq('track', 'Search',
+{"content_type":"hotel","content_ids":["90340","427","15788","5762","35789"],"destination_ids":["8"],"city":null,"region":"Mpumalanga","price":280,"preferred_price_range":[0,5000]}
+);
+
+</script>
+<!-- Insert Your Custom Audience Pixel ID below. -->
+<noscript><img height='1' width='1' style='display:none'
+src='https://www.facebook.com/tr?id=650477528454841&ev=PageView&noscript=1'
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type='text/javascript'>
+
+</script>
+
+
+                <script src="/accomm/public/assets/module-4352.js?v=e6e99d" defer></script>
+<script src="/accomm/public/assets/module-9670.js?v=33c158" defer></script>
+<script src="/accomm/public/assets/module-5275.js?v=df1918" defer></script>
+<script src="/accomm/public/assets/module-2523.js?v=7cebb4" defer></script>
+<script src="/accomm/public/assets/module-scripts/integration/sentry.entry.js?v=7b35f7" defer></script>
+    <script>(function(){var js = "window['__CF$cv$params']={r:'7e952cf12a8475d7'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v2cb3a2ab87c5498db5ce7e6608cf55231689030342039" integrity="sha512-DI3rPuZDcpH/mSGyN22erN5QFnhl760f50/te7FTIYxodEF8jJnSFnfnmG/c+osmIQemvUrnBtxnMpNdzvx1/g==" data-cf-beacon='{"rayId":"7e952cf12a8475d7","version":"2023.4.0","b":1,"token":"07236f1bf4c04dde922b98cfca5d24b8","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
